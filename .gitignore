@@ -1,0 +1,4 @@
+ffmpeg.exe
+temp/
+output/
+.idea/
